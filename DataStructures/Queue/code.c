@@ -1,6 +1,6 @@
-
 #include <stdio.h>
 #include <assert.h>
+
 typedef int ElementType;
 typedef struct Queue* Que;
 
@@ -11,6 +11,7 @@ struct Queue {
     long int  Rear;
     ElementType* QArr;
 };
+
 Que InitQue(size_t que_capacity)
 {
     Que Q = (Que)malloc(sizeof(struct Queue));
