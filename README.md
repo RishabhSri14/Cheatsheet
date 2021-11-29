@@ -3,8 +3,8 @@
 	
 >>	Data Structures
 
-- <a href="https://github.com/RishabhSri14/Cheatsheet/DataStructures/LinkedLists">	Linked Lists</a>
-- <a href="https://github.com/RishabhSri14/Cheatsheet">	Stack</a>
+- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/DataStructures/LinkedLists">	Linked Lists</a>
+- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/DataStructures/Stack">	Stack</a>
 - <a href="https://github.com/RishabhSri14/Cheatsheet">	Queue</a>
 - <a href="https://github.com/RishabhSri14/Cheatsheet">	Priority Queue</a>
 - <a href="https://github.com/RishabhSri14/Cheatsheet">	HashMap</a>

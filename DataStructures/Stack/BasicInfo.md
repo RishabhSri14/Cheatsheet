@@ -6,4 +6,4 @@
 > It is easily implemented using simple array using arr[0] as closed end.
 
 
->Click <a href="https://github.com/RishabhSri14/Cheatsheet/DataStructures/Stack/code.c">here</a> to view the code. 
+>Click <a href="https://github.com/RishabhSri14/Cheatsheet/blob/main/DataStructures/Stack/code.c">here</a> to view the code. 

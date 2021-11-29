@@ -19,4 +19,5 @@
 
 
 
->Click <a href="https://github.com/RishabhSri14/Cheatsheet/DataStructures/LinkedLists/code.c">here</a> to view the code. 
+>Click <a href="https://github.com/RishabhSri14/Cheatsheet/blob/main/DataStructures/LinkedLists/code.c">here</a> to view the code. 
+                
