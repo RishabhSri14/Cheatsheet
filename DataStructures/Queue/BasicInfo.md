@@ -9,4 +9,4 @@ Queue follows First-In-First-Out methodology, i.e., the data item stored first w
 
 > This can be implemented by both array or linked lists.
 
->Click <a href="https://github.com/RishabhSri14/Cheatsheet/blob/main/DataStructures/Stack/code.c">here</a> to view the code. 
+>Click <a href="https://github.com/RishabhSri14/Cheatsheet/blob/main/DataStructures/Queue/code.c">here</a> to view the code. 

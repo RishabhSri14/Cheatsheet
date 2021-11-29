@@ -5,7 +5,7 @@
 
 - <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/DataStructures/LinkedLists">	Linked Lists</a>
 - <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/DataStructures/Stack">	Stack</a>
-- <a href="https://github.com/RishabhSri14/Cheatsheet">	Queue</a>
+- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/DataStructures/Queue">	Queue</a>
 - <a href="https://github.com/RishabhSri14/Cheatsheet">	Priority Queue</a>
 - <a href="https://github.com/RishabhSri14/Cheatsheet">	HashMap</a>
 - <a href="https://github.com/RishabhSri14/Cheatsheet">	Trees</a>
