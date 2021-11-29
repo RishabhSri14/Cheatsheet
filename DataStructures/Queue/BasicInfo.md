@@ -5,7 +5,8 @@ Unlike stacks, a queue is open at both its ends.
 One end is always used to insert data (enqueue) and the other is used to remove data (dequeue).  
 Queue follows First-In-First-Out methodology, i.e., the data item stored first will be accessed first.
 
-> This can be imagined as a narrow parking lot where the first car that enters has to leave first.
+> This can be imagined as a narrow parking lot where the first car that enters has to leave first.  
+Basically the data is pushed from arr[size-1] end and dequed from arr[0] end.  
 
 > This can be implemented by both array or linked lists.
 
