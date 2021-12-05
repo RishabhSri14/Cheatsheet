@@ -44,6 +44,7 @@
 
 - <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/ActivitySelection">	Activity Selection </a>
 - <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/HuffmanCode">	Huffman code </a>
+- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/SetCover">	Set Cover </a>
 - <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/MatroidsAndGreedyMethod">	Matroids and greedy methods </a>
 
 >>	Probabilistic Analysis and Randomized Algorithms 
