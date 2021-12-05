@@ -11,8 +11,8 @@
 - <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/DataStructures/HashMap">	Trees</a>
 - <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/DataStructures/BinarySearchTree">	Binary Search Tree</a>
 - <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/DataStructures/AVLTrees">	AVL Trees</a>
-- <a href="https://github.com/RishabhSri14/Cheatsheet/Red-BlackTrees">	Red- black Trees</a>
-- <a href="https://github.com/RishabhSri14/Cheatsheet/FibonacciHeaps">	Fibonacci Heaps</a>
+- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/DataStructures/Red-BlackTrees">	Red- black Trees</a>
+- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/DataStructures/FibonacciHeaps">	Fibonacci Heaps</a>
 
 
 >>	Searching and Sorting
