@@ -9,7 +9,7 @@
 - <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/DataStructures/PriorityQueue">	Priority Queue</a>
 - <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/DataStructures/HashMap">	HashMap</a>
 - <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/DataStructures/HashMap">	Trees</a>
-- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/DataStructures/BinarySearchTree>	Binary Search Tree</a>
+- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/DataStructures/BinarySearchTree">	Binary Search Tree</a>
 - <a href="https://github.com/RishabhSri14/Cheatsheet">	AVL Trees</a>
 - <a href="https://github.com/RishabhSri14/Cheatsheet">	Kd – Trees</a>
 - <a href="https://github.com/RishabhSri14/Cheatsheet">	Red- black Trees</a>
