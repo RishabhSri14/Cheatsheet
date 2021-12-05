@@ -7,7 +7,7 @@
 - <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/DataStructures/Stack">	Stack</a>
 - <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/DataStructures/Queue">	Queue</a>
 - <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/DataStructures/PriorityQueue">	Priority Queue</a>
-- <a href="https://github.com/RishabhSri14/Cheatsheet">	HashMap</a>
+- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/DataStructures/HashMap">	HashMap</a>
 - <a href="https://github.com/RishabhSri14/Cheatsheet">	Trees</a>
 - <a href="https://github.com/RishabhSri14/Cheatsheet">	Binary Search Tree</a>
 - <a href="https://github.com/RishabhSri14/Cheatsheet">	AVL Trees</a>
