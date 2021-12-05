@@ -10,13 +10,9 @@
 - <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/DataStructures/HashMap">	HashMap</a>
 - <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/DataStructures/HashMap">	Trees</a>
 - <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/DataStructures/BinarySearchTree">	Binary Search Tree</a>
-- <a href="https://github.com/RishabhSri14/Cheatsheet">	AVL Trees</a>
-- <a href="https://github.com/RishabhSri14/Cheatsheet">	Kd – Trees</a>
-- <a href="https://github.com/RishabhSri14/Cheatsheet">	Red- black Trees</a>
-- <a href="https://github.com/RishabhSri14/Cheatsheet">	B Trees</a>
-- <a href="https://github.com/RishabhSri14/Cheatsheet">	Interval Trees</a>
-- <a href="https://github.com/RishabhSri14/Cheatsheet">	Fibonacci Heaps</a>
-- <a href="https://github.com/RishabhSri14/Cheatsheet">	Sets</a>
+- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/DataStructures/AVLTrees">	AVL Trees</a>
+- <a href="https://github.com/RishabhSri14/Cheatsheet/Red-BlackTrees">	Red- black Trees</a>
+- <a href="https://github.com/RishabhSri14/Cheatsheet/FibonacciHeaps">	Fibonacci Heaps</a>
 
 
 >>	Searching and Sorting
@@ -70,7 +66,7 @@
 
 - <a href="https://github.com/RishabhSri14/Cheatsheet"> Growing a minimum spanning tree </a>
 - <a href="https://github.com/RishabhSri14/Cheatsheet"> The algorithms of Kruskal and Prim </a>
-Single- <a href="https://github.com/RishabhSri14/Cheatsheet">Source Shortest Paths </a>
+- <a href="https://github.com/RishabhSri14/Cheatsheet">Single-Source Shortest Paths </a>
 - <a href="https://github.com/RishabhSri14/Cheatsheet"> The Bellman-Ford algorithm </a> 
 - <a href="https://github.com/RishabhSri14/Cheatsheet"> Single-source shortest paths in directed acyclic graphs </a> 
 - <a href="https://github.com/RishabhSri14/Cheatsheet"> Dijkstra’s algorithm </a>
