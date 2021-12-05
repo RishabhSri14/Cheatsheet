@@ -8,7 +8,7 @@
 - <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/DataStructures/Queue">	Queue</a>
 - <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/DataStructures/PriorityQueue">	Priority Queue</a>
 - <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/DataStructures/HashMap">	HashMap</a>
-- <a href="https://github.com/RishabhSri14/Cheatsheet">	Trees</a>
+- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/DataStructures/HashMap">	Trees</a>
 - <a href="https://github.com/RishabhSri14/Cheatsheet">	Binary Search Tree</a>
 - <a href="https://github.com/RishabhSri14/Cheatsheet">	AVL Trees</a>
 - <a href="https://github.com/RishabhSri14/Cheatsheet">	Kd – Trees</a>
@@ -17,7 +17,7 @@
 - <a href="https://github.com/RishabhSri14/Cheatsheet">	Interval Trees</a>
 - <a href="https://github.com/RishabhSri14/Cheatsheet">	Fibonacci Heaps</a>
 - <a href="https://github.com/RishabhSri14/Cheatsheet">	Sets</a>
-- <a href="https://github.com/RishabhSri14/Cheatsheet">	Graph Data Structures</a>
+
 
 >>	Searching and Sorting
 
