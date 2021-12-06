@@ -61,11 +61,11 @@
 
 >> Elementary Graph Algorithms 
 
-- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/"> Representations of graphs </a>
-- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/"> Breadth-first search </a> 
-- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/"> Depth-first search </a>
-- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/"> Topological sort </a>
-- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/"> Strongly connected components </a>
+- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/GraphAlgo/RepresentationsOfGraphs"> Representations of graphs </a>
+- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/GraphAlgo/BFSAndDFS"> Breadth-first search </a> 
+- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/GraphAlgo/BFSAndDFS"> Depth-first search </a>
+- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/GraphAlgo/TopologicalSort"> Topological sort </a>
+- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/GraphAlgo/StronglyConnectedComponents"> Strongly connected components </a>
 
 > Minimum Spanning Trees 
 
