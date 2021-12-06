@@ -52,7 +52,7 @@
 - <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/TheHiringProblem"> The hiring problem </a> 
 - <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/IndicatorRandomVariables"> Indicator random variables </a>
 - <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/ProbabilisticAnalysis"> Probabilistic analysis in the birthday paradox </a>
-- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/NPProblems"> NP-complete Problems. </a>
+- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/NPHardProblems"> NP-complete Problems. </a>
 - <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/NPProblems/BasicInfo.md"> Hamiltonian cycle. </a>
 - <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/NPProblems/BasicInfo.md"> Travelling Salesman Problem. </a>
 - <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/NPProblems/BasicInfo.md"> Independent Set and Vertex Cover. </a>
