@@ -53,10 +53,10 @@
 - <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/RandomAlgo/IndicatorRandomVariables"> Indicator random variables </a>
 - <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/RandomAlgo/ProbabilisticAnalysis"> Probabilistic analysis in the birthday paradox </a>
 - <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/RandomAlgo/NPHardProblems"> NP-complete Problems. </a>
-- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/RandomAlgo/NPProblems/BasicInfo.md"> Hamiltonian cycle. </a>
-- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/RandomAlgo/NPProblems/BasicInfo.md"> Travelling Salesman Problem. </a>
-- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/RandomAlgo/NPProblems/BasicInfo.md"> Independent Set and Vertex Cover. </a>
-- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/RandomAlgo/NPProblems/BasicInfo.md"> Clique. </a>
+- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/RandomAlgo/NPHardProblems/BasicInfo.md"> Hamiltonian cycle. </a>
+- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/RandomAlgo/NPHardProblems/BasicInfo.md"> Travelling Salesman Problem. </a>
+- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/RandomAlgo/NPHardProblems/BasicInfo.md"> Independent Set and Vertex Cover. </a>
+- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/RandomAlgo/NPHardProblems/BasicInfo.md"> Clique. </a>
 
 
 >> Elementary Graph Algorithms 
