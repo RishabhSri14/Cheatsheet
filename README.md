@@ -54,9 +54,9 @@
 - <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/RandomAlgo/ProbabilisticAnalysis"> Probabilistic analysis in the birthday paradox </a>
 - <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/RandomAlgo/NPHardProblems"> NP-complete Problems. </a>
 - <a href="https://github.com/RishabhSri14/Cheatsheet/blob/main/RandomAlgo/NPHardProblems/Basicinfo.md"> Hamiltonian cycle. </a>
-- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/RandomAlgo/NPHardProblems/BasicInfo.md"> Travelling Salesman Problem. </a>
-- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/RandomAlgo/NPHardProblems/BasicInfo.md"> Independent Set and Vertex Cover. </a>
-- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/RandomAlgo/NPHardProblems/BasicInfo.md"> Clique. </a>
+- <a href="https://github.com/RishabhSri14/Cheatsheet/blob/main/RandomAlgo/NPHardProblems/Basicinfo.md"> Travelling Salesman Problem. </a>
+- <a href="https://github.com/RishabhSri14/Cheatsheet/blob/main/RandomAlgo/NPHardProblems/Basicinfo.md"> Independent Set and Vertex Cover. </a>
+- <a href="https://github.com/RishabhSri14/Cheatsheet/blob/main/RandomAlgo/NPHardProblems/Basicinfo.md"> Clique. </a>
 
 
 >> Elementary Graph Algorithms 
