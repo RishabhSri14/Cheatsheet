@@ -66,24 +66,11 @@
 - <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/GraphAlgo/BFSAndDFS"> Depth-first search </a>
 - <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/GraphAlgo/TopologicalSort"> Topological sort </a>
 - <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/GraphAlgo/StronglyConnectedComponents"> Strongly connected components </a>
-
-> Minimum Spanning Trees 
-
-- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/"> Growing a minimum spanning tree </a>
-- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/"> The algorithms of Kruskal and Prim </a>
-- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/">Single-Source Shortest Paths </a>
-- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/"> The Bellman-Ford algorithm </a> 
-- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/"> Single-source shortest paths in directed acyclic graphs </a> 
-- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/"> Dijkstra’s algorithm </a>
-- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/"> Difference constraints and shortest paths </a> 
-- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/"> Proofs of shortest-paths properties </a>
-> All- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/">Pairs Shortest Paths </a>
-- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/"> Shortest paths and matrix multiplication </a> 
-- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/"> The Floyd-Warshall algorithm </a>
-- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/"> Johnson’s algorithm for sparse graphs </a>
-> Maximum Flow 
-- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/"> Flow networks </a>
-- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/"> The Ford-Fulkerson method </a> 
-- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/"> Maximum bipartite matching </a>
-- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/"> Push-relabel algorithms </a> 
-- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/"> The relabel-to-front algorithm </a>
+- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/GraphAlgo/KruskalAndPrim">  Kruskal algorithms  </a>
+- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/GraphAlgo/KruskalAndPrim">  Prim algorithms </a>
+- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/GraphAlgo/Bellman-Ford"> The Bellman-Ford algorithm </a> 
+- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/GraphAlgo/Dijkstra"> Dijkstra’s algorithm </a> 
+- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/GraphAlgo/FloydWarshall"> The Floyd-Warshall algorithm </a>
+- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/GraphAlgo/Johnson"> Johnson’s algorithm for sparse graphs </a>
+- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/GraphAlgo/Ford_Fulkerson"> The Ford-Fulkerson method </a> 
+- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/GraphAlgo/Bipartite"> Maximum bipartite matching </a>
