@@ -36,27 +36,27 @@
 
 >>	Divide And Conquer
 
-- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/MaximumSubarrayProblem">	Maximum subarray problem.</a>
-- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/Strassen'sAlgorithmForMatrixMultiplication">	Strassen’s algorithm for matrix multiplication</a>
-- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/MasterTheorem">	Master Theorem.</a>
+- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/DivideAndConquer/MaximumSubarrayProblem">	Maximum subarray problem.</a>
+- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main//DivideAndConquer/Strassen'sAlgorithmForMatrixMultiplication">	Strassen’s algorithm for matrix multiplication</a>
+- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/DivideAndConquer/MasterTheorem">	Master Theorem.</a>
 
 >> 	Greedy Algorithm
 
-- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/ActivitySelection">	Activity Selection </a>
-- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/HuffmanCode">	Huffman code </a>
-- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/SetCover">	Set Cover </a>
-- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/MatroidsAndGreedyMethod">	Matroids and greedy methods </a>
+- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/GreedyAlgo/ActivitySelection">	Activity Selection </a>
+- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/GreedyAlgo/HuffmanCode">	Huffman code </a>
+- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/GreedyAlgo/SetCover">	Set Cover </a>
+- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/GreedyAlgo/MatroidsAndGreedyMethod">	Matroids and greedy methods </a>
 
 >>	Probabilistic Analysis and Randomized Algorithms 
 
-- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/TheHiringProblem"> The hiring problem </a> 
-- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/IndicatorRandomVariables"> Indicator random variables </a>
-- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/ProbabilisticAnalysis"> Probabilistic analysis in the birthday paradox </a>
-- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/NPHardProblems"> NP-complete Problems. </a>
-- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/NPProblems/BasicInfo.md"> Hamiltonian cycle. </a>
-- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/NPProblems/BasicInfo.md"> Travelling Salesman Problem. </a>
-- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/NPProblems/BasicInfo.md"> Independent Set and Vertex Cover. </a>
-- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/NPProblems/BasicInfo.md"> Clique. </a>
+- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/RandomAlgo/TheHiringProblem"> The hiring problem </a> 
+- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/RandomAlgo/IndicatorRandomVariables"> Indicator random variables </a>
+- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/RandomAlgo/ProbabilisticAnalysis"> Probabilistic analysis in the birthday paradox </a>
+- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/RandomAlgo/NPHardProblems"> NP-complete Problems. </a>
+- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/RandomAlgo/NPProblems/BasicInfo.md"> Hamiltonian cycle. </a>
+- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/RandomAlgo/NPProblems/BasicInfo.md"> Travelling Salesman Problem. </a>
+- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/RandomAlgo/NPProblems/BasicInfo.md"> Independent Set and Vertex Cover. </a>
+- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/RandomAlgo/NPProblems/BasicInfo.md"> Clique. </a>
 
 
 >> Elementary Graph Algorithms 
