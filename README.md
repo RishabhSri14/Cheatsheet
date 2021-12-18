@@ -31,7 +31,7 @@
 - <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/DynamicProg/LongestCommonSubsequence">	Longest Common Subsequence</a>
 - <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/DynamicProg/EditDistance">	Edit Distance between two words</a>
 - <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/DynamicProg/ShortestPathWithAtMostKEdges">	Shortest path that uses at most k edges.</a>
-- <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/DynamicProg/MatrixCinMultiplication">	matrix chain multiplication.</a>
+- <a href="https://github.com/RishabhSri14/Cheatsheet/blob/main/DynamicProg/MatrixChainMultiplication/Basicinfo.md">	matrix chain multiplication.</a>
 - <a href="https://github.com/RishabhSri14/Cheatsheet/tree/main/DynamicProg/LimitationsOfDP">	Limitations Of DP.</a>
 
 >>	Divide And Conquer
